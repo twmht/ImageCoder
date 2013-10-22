@@ -1,7 +1,7 @@
 ImageCoder
 ==============
 
-An Java-based Image Coder implementing some well-known algorithms including DCT(Discrete cosine transform), Clut(Colour look-up table), and Mosaic.
+A Java-based Image Coder implementing some well-known algorithms including DCT(Discrete cosine transform), Clut(Colour look-up table), and Mosaic.
 
 ##Usage
 
