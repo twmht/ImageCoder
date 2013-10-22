@@ -11,3 +11,13 @@ java -jar ImageCoder.jar
 
 ###Mosaic
 
+![Mosaic](/images/mosaic.gif "Mosaic")
+
+###CLUT
+
+![Clut](/images/clut.gif "Clut")
+
+###DCT(With a few quantizations to 64 blocks)
+
+![DCT](/images/dct.gif "DCT")
+
