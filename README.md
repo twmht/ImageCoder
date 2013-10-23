@@ -17,7 +17,7 @@ java -jar ImageCoder.jar
 
 ![Clut](/images/clut.gif "Clut")
 
-###DCT(With a few quantizations to 64 blocks)
+###DCT(With the default quantization table to 64 blocks)
 
 ![DCT](/images/dct.gif "DCT")
 
